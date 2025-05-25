@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/migliore_life_Sciences/static/css/main.81dea2aa.css",
+    "main.js": "/migliore_life_Sciences/static/js/main.e7b75edb.js",
+    "index.html": "/migliore_life_Sciences/index.html",
+    "main.81dea2aa.css.map": "/migliore_life_Sciences/static/css/main.81dea2aa.css.map",
+    "main.e7b75edb.js.map": "/migliore_life_Sciences/static/js/main.e7b75edb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81dea2aa.css",
+    "static/js/main.e7b75edb.js"
+  ]
+}
